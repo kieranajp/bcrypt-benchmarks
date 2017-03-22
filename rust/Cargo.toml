@@ -1,0 +1,7 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["Kieran <me@kieranajp.co.uk>"]
+
+[dependencies]
+bcrypt = "0.1"
